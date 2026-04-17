@@ -71,7 +71,10 @@ streamlit run app.py
 ---
 
 ## 📸 Demo
-(Add screenshots or GIF here)
+## Live Demo
+- Upload PDF
+- Ask questions
+- Get AI-powered answers using RAG pipeline
 
 ---
 
