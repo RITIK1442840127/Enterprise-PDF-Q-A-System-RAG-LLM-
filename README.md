@@ -70,13 +70,17 @@ streamlit run app.py
 
 ---
 
-## 📸 Demo
 ## Live Demo
 - Upload PDF
 - Ask questions
 - Get AI-powered answers using RAG pipeline
 
 ---
+## 📄 Project Demo
+
+This project demonstrates a PDF-based Question Answering system using RAG.
+
+🎥 Demo Video: [Watch here] https://youtu.be/CG77IkANN_s?si=rskLF3lgVagfSrym
 
 ## 📌 Future Improvements
 - Multi-document support  
